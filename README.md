@@ -3962,6 +3962,8 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Time of Meeting](https://timeofmeeting.com/mcp) `https://timeofmeeting.com/mcp`
   [![Time of Meeting MCP connector](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting/badges/score.svg)](https://glama.ai/mcp/connectors/com.timeofmeeting/time-of-meeting)
   🔓 - Find fair meeting times across time zones: show the overlap, convert times and make calendar links.
+- [ToDowl](https://todowl.com/?utm_source=awesome-remote-mcp-servers&utm_medium=mcp_directory&utm_campaign=mcp_listing) `https://mcp.todowl.com/`
+  🔐 - Manage tasks, calendar events, notes and habits in ToDowl from your AI client; sign in with a personal API token.
 - [Verant](https://verant.ai) `https://verant.ai/mcp`
   [![Verant MCP connector](https://glama.ai/mcp/connectors/ai.verant/verant/badges/score.svg)](https://glama.ai/mcp/connectors/ai.verant/verant)
   🔐 - Proofread live web pages and whole sites for spelling, grammar, and placeholder text, with a fix for each.
